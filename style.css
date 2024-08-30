@@ -1,0 +1,24 @@
+section {
+    width: 100vw;
+    height: 100vh;
+    scroll-behavior: hidden;
+}
+
+#home {
+    background-color: thistle;
+}
+#about {
+    background-color: blue;
+}
+#service {
+    background-image:url(BFVQ6806.JPG) ;
+    background-size: cover;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+#order {
+    background-image: url(DKAV9755.JPG);
+    background-size: cover;
+    background-position: 100%;
+    background-repeat: no-repeat;
+}
